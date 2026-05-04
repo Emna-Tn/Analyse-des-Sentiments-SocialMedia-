@@ -8,7 +8,7 @@ We explore, clean, and preprocess textual data, then apply sentiment analysis
 using both lexicon-based and machine learning approaches.
 
 ##  Dataset
-The dataset file, named sentimentsdataset.csv, encapsulates diverse social media insights. It comprises user-generated content, sentiment labels, timestamps, platform details, trending hashtags, user engagement metrics, and geographical origins. With additional columns for extracted date and time components, this dataset is a valuable resource for sentiment analysis, trend identification, and temporal analysis on social media platforms.
+The dataset file, encapsulates diverse social media insights. It comprises user-generated content, sentiment labels, timestamps, platform details, trending hashtags, user engagement metrics, and geographical origins. With additional columns for extracted date and time components, this dataset is a valuable resource for sentiment analysis, trend identification, and temporal analysis on social media platforms.
 
 
 ##  Technologies Used
